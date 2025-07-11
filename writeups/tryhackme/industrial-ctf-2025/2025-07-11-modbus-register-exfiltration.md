@@ -19,7 +19,7 @@ In this challenge, we analyze a PCAP file named `rogue-poller-1750969333044.pcap
 
 ## 🚀 Step-by-Step Solution
 1. **Open the PCAP in Wireshark**  
-   - Launch Wireshark and open `rogue-poller-1750969333044.pcapng`.  
+   - Launch Wireshark and open `rogue-poller-1750969333044.pcapng`. (present in the assets/tryhackme/industrial-ctf-2025)
    - You will see many network packets; we only need Modbus/TCP packets.
 
 2. **Filter for Modbus/TCP Traffic**  
